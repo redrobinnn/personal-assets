@@ -1,0 +1,24 @@
+<svg width="193" height="40" viewBox="0 0 193 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_64_43)">
+<path d="M191.98 0.5H181.6V10.88H191.98V0.5Z" stroke="#BC8D4D" stroke-miterlimit="10"/>
+<path d="M191.98 15.88H181.6V26.26H191.98V15.88Z" stroke="#BC8D4D" stroke-miterlimit="10"/>
+<path d="M176.6 0.5H166.22V10.88H176.6V0.5Z" stroke="#BC8D4D" stroke-miterlimit="10"/>
+<path d="M181.6 10.88V15.88" stroke="#BC8D4D" stroke-miterlimit="10"/>
+<path d="M176.6 10.88H181.6" stroke="#BC8D4D" stroke-miterlimit="10"/>
+<path d="M176.6 10.88V15.88" stroke="#BC8D4D" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M176.6 15.88H181.6" stroke="#BC8D4D" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M176.6 15.88V31.26" stroke="#BC8D4D" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M176.6 15.88H161.22" stroke="#BC8D4D" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M176.6 31.26H191.98" stroke="#BC8D4D" stroke-miterlimit="10"/>
+<path d="M161.22 15.88V0.5" stroke="#BC8D4D" stroke-miterlimit="10"/>
+<path d="M191.98 31.26V38.93" stroke="#BC8D4D" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M161.22 0.5H153.56" stroke="#BC8D4D" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M153.56 0.5H23.25" stroke="#BC8D4D" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M15.3 0.5H0.5" stroke="#BC8D4D" stroke-miterlimit="10" stroke-linecap="square"/>
+</g>
+<defs>
+<clipPath id="clip0_64_43">
+<rect width="192.48" height="39.43" fill="white"/>
+</clipPath>
+</defs>
+</svg>
